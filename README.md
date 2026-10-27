@@ -12,6 +12,6 @@ Location: Mid-Ennerdale, Gauteng
 - Login with demo account
 - Report pothole
 - Offline voice alerts
-- Status: Ready for UJ Certificate
+- Status: Ready for FNB App Academy 
 
-Built for UJ Final - Due 26 Oct 23:59
+Built for FNB APP Final - Due 26 Oct 23:59
